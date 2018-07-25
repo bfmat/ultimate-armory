@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ultimatearmory",
+  "name": "Ethcad's Ultimate Armory",
+  "description": "Ethcad's Ultimate Armory is a mod that adds five new types of materials for tools and swords, tons of new weapons such as crossbows, grenade launchers, baseball bats, and a lightning wand, new types of ore underground, and more crafting recipes for the existing items in Minecraft!",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "http://www.gambacraft.net/mods",
+  "updateUrl": "",
+  "authorList": ["Ethcad"],
+  "credits": "Wuppy, for his great tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
